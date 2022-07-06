@@ -1,7 +1,7 @@
 {
-	"name": "",
-	"version": "1.0.0",
-	"description": "",
+	"name": "@vocadb/web-link-matcher",
+	"version": "1.0.0-rc.1",
+	"description": "Web link matcher.",
 	"main": "dist/index.js",
 	"devDependencies": {
 		"@trivago/prettier-plugin-sort-imports": "^2.0.4",
@@ -27,14 +27,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git+https://github.com/VocaDB/web-link-matcher.git"
 	},
 	"types": "./dist/index.d.ts",
 	"keywords": [],
-	"author": "",
+	"author": "VocaDB <support@vocadb.net>",
 	"license": "MIT",
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/VocaDB/web-link-matcher/issues"
 	},
 	"homepage": "",
 	"files": [
