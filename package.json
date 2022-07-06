@@ -1,6 +1,6 @@
 {
 	"name": "@vocadb/web-link-matcher",
-	"version": "1.0.0-rc.1",
+	"version": "1.0.0",
 	"description": "Web link matcher.",
 	"main": "dist/index.js",
 	"devDependencies": {
@@ -36,7 +36,7 @@
 	"bugs": {
 		"url": "https://github.com/VocaDB/web-link-matcher/issues"
 	},
-	"homepage": "",
+	"homepage": "https://github.com/VocaDB/web-link-matcher",
 	"files": [
 		"dist"
 	],
