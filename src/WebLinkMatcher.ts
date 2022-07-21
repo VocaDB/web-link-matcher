@@ -940,6 +940,21 @@ export class WebLinkMatcher {
 			desc: 'd hits',
 			cat: WebLinkCategory.Commercial,
 		},
+		{
+			url: 'sd.club-zion.jp',
+			desc: 'CLUB ZION',
+			cat: WebLinkCategory.Commercial,
+		},
+		{
+			url: 'sd.deluxe-sound.jp',
+			desc: 'DE-LUXE',
+			cat: WebLinkCategory.Commercial,
+		},
+		{
+			url: 'sd.reggaezion.jp',
+			desc: 'REGGAE ZION',
+			cat: WebLinkCategory.Commercial,
+		},
 	];
 
 	private static isMatch(url: string, item: WebLinkMatcher): boolean {
